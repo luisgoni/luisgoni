@@ -15,11 +15,6 @@ esse e um subsubtitulo
 - Essa é a segunda linha da minha lista
 - Essa é a terceira linha da minha lista
 
----
-1. essa e uma lista numerada 
-2. essa e a segunda linha da minha lista numerada
-3. essa e a terceira linha da minha lista numerada 
-
 <!---
 luisgoni/luisgoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
